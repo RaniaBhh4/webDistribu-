@@ -1,0 +1,24 @@
+# Build / dependances
+**/target/
+**/node_modules/
+**/venv/
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+
+# IDE
+.idea/
+**/.idea/
+*.iml
+.vscode/
+
+# Logs
+**/logs/
+*.log
+*.err
+
+# Divers
+.env
+.DS_Store
+Thumbs.db
