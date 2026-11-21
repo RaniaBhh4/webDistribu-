@@ -5,7 +5,6 @@ ESPRIT – Année universitaire 2026-2027
 ## Membres de l'équipe
 
 - Rania Ben Hadj Hamida
-- _(ajouter les autres membres)_
 
 ## Microservices
 
@@ -35,7 +34,7 @@ Code source : `backend/backend/microservices/`
 
 ## Captures
 
-Toutes les captures (Eureka + Actuator) sont dans **[Rendu Eureka.pdf](Rendu%20Eureka.pdf)**.
+Toutes les captures (Eureka + Actuator) sont dans **[Rendu.pdf](Rendu.pdf)**.
 
 ## Lancement
 
